@@ -1,12 +1,12 @@
 {
-    "name": "iamjesseshow-starter-project",
+    "name": "rpdesign",
     "version": "1.0.0",
     "description": "Starter Project",
     "main": "index.html",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "author": "Jesse Showalter",
+    "author": "Ryan Phillips",
     "license": "ISC",
     "devDependencies": {
         "browser-sync": "^2.7.11",
